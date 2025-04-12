@@ -2,6 +2,7 @@
 const userData = [
     { studentNumber: "2023001", studentName: "홍길동", googleId: "hong.gildong@g.com", googlePw: "password123" },
     { studentNumber: "2023002", studentName: "김철수", googleId: "kim.chulsoo@g.com", googlePw: "password456" },
+    { studentNumber: "2023007", studentName: "박경배", googleId: "park.chulsoo@g.com", googlePw: "password456" },
     { studentNumber: "2023003", studentName: "이영희", googleId: "lee.younghee@g.com", googlePw: "password789" }
 ];
 
